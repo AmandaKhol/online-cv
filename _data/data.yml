@@ -51,7 +51,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Born and raised on the Canary Islands (Spain), I decided to live abroad after finishing my University studies and explore the world to fulfill my curiosity about programming and cultures. After being a backend for a few years, I have been focused mainly on frontend. My goal during this learning journey is to become in Full Stack Developer.
+      Born and raised on the Canary Islands (Spain), I decided to live abroad after finishing my University studies and explore the world to fulfill my curiosity about programming and culture. After being a backend for a few years I have been focused mainly on frontend. My goal during this learning journey is to become in Full Stack Developer.
       You can <a href="https://kishiamy.github.io/online-cv/" onclick="document.title='Beatriz Febles CV'; window.print();">download or print my CV here</a>.
 education:
     - degree: BS Computer Engineering and Business Studies
@@ -63,11 +63,11 @@ experiences:
       time: August 2016 - present
       company: Kloeckner.i GmbH, Berlin
       details: |
-        Creation of multiple web applications providing solutions to ours B2B users in Emberjs, Vuejs, GraphQL, Rails, Elixir, Docker, Kubernetes, Rancher, Sentry, Javascript, Babel, SCSS, HTML, I18n.
-        - Working with cross-functional teams.
-        - Providing responsive solutions.
+        Creation of several web applications providing solutions for our Kloeckner subsidiaries and their business customers in Emberjs, Vuejs, GraphQL, Rails, Elixir, Docker, Kubernetes, Rancher, Sentry, Javascript, Babel, SCSS, HTML, I18n.
+        - Working on a cross-functional teams.
+        - Developing and implementing responsive solutions.
         - Collaborating on Styleguide creation.
-        - Testing with QUnit, Polly.js, page-objects and Mirage.
+        - Testing with <a href="https://qunitjs.com" target="_blank">QUnit</a>, <a href="https://netflix.github.io/pollyjs" target="_blank">Polly.js</a>, <a href="http://ember-cli-page-object.js.org" target="_blank">page-objects</a> and <a href="https://www.ember-cli-mirage.com" target="_blank">Mirage</a>.
         - Agile methodologies with Jira.
 
     - role: Backend Developer
@@ -79,7 +79,7 @@ experiences:
           - Integrate APIs into microservices.
           - Applying TDD and Object Oriented Design.
           - Use of Agile methodologies with Trello.
-          - Testing iOS application (Frank, Cucumber).
+          - Testing iOS application (<a href="https://testingwithfrank.github.io" target="_blank">Frank</a>, Cucumber).
     - role: Intership
       time: January - June 2013
       company: SOFTGAMES – Mobile Entertainment Services GmbH, Berlin
@@ -94,7 +94,7 @@ experiences:
       time: September - November 2012
       company: NinjaConcept GmbH, Karlsruhe
       details: |
-        Basic knowledge on Rails applications by using Postgres and MySQL databases with different technologies such as HTML, CSS, Bootstrap, Sass, Haml, FactoryGirl and Javascript.
+        Work on Rails applications by using Postgres and MySQL databases with different technologies such as HTML, CSS, Bootstrap, Sass, Haml, FactoryGirl and Javascript.
           - Creating Ruby on Rails application for organizing events using Twitter API Omniauth and hosted in Heroku.
           - Writing tests for different applications (Rspec + Capybara, Cucumber).
           - Collaborating with the team writing documentation for the project.
