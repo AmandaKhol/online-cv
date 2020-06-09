@@ -1,1 +1,1 @@
-A minimal Jekyll with my resume (CV)
+A minimal Jekyll with my CV
