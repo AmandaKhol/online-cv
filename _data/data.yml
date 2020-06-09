@@ -116,6 +116,8 @@ skills:
         level: 70%
       - name: Ember.js
         level: 60%
+      - name: Javascript
+        level: 50%
       - name:  HTML5 & CSS
         level: 70%
       - name: Ruby on Rails

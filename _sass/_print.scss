@@ -25,6 +25,19 @@
       color: $theme-color !important;
     }
 
+    .projects-section {
+      .section-title {
+        margin-bottom: 10px;
+      }
+      .intro {
+        margin-bottom: 5px;
+      }
+    }
+
+    .summary-section {
+      margin-bottom: 20px;
+    }
+
     .summary-section a {
       text-decoration: none;
     }
@@ -70,8 +83,14 @@
     display: none;
   }
 
-  .skillset .level-bar-inner {
-    background-color: $theme-color !important;
-    -webkit-print-color-adjust: exact;
+  .skillset {
+    .item {
+      margin-bottom: 10px;
+
+      .level-bar-inner {
+        background-color: $theme-color !important;
+        -webkit-print-color-adjust: exact;
+      }
+    }
   }
 }
