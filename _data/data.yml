@@ -9,7 +9,7 @@ sidebar:
   # Profile information
   name: PhD. Amanda García García
   tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: amanda_garcia_web.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: amanda.camsua@gmail.com
@@ -53,7 +53,7 @@ sidebar:
 
 career-profile:
   title: Career Profile
-  summary: Born and raised on Madrid (Spain), I decided to live abroad after finishing my University studies and explore the world to fulfill my curiosity about programming and culture. After being a backend for a few years I have been focused mainly on frontend. My goal during this learning journey is to become in Full Stack Developer.
+  summary: Born and raised in Madrid (Spain), I began my professional career in research to satisfy my desire to learn and discover new horizons of knowledge. Added to my passion for technology, I have always been studing sketching, illustration and graphic design. Thanks to web development, I have discovered that combining my two passions was possible. My goal is to become a Rock Stack Developer (UX / UI, Front-End and Back-end).
 
 education:
   - degree: International Ph.D. Degree in Communication Technologies and Systems
@@ -64,106 +64,51 @@ education:
     time: 2004 - 2011
     details: |
 experiences:
-  - role: Research Engineer (Juan de la Cierva, National Research Grant)
+  - role: Research Engineer
+      (Juan de la Cierva, National Research Grant)
     time: 2017 - Present
     company: IMDEA Networks Institute, Madrid (Spain)
-    details:
+    details: |
       RESTful API development using Python and Web Frameworks for Python (Flask, Flask_SQLAlchemy, Marshmallow)
-      - Blockchain technology
-      - Wireless communications and networks (mmWave, LTE, WiFi, etc.)
-      - Patent creation (filed 2 patents)
-      - Management and administration of research laboratories
-  - role: Researche Engineer
+        - Blockchain technology
+        - Wireless communications and networks (mmWave, LTE, WiFi, etc.)
+        - Patent creation (filed 2 patents)
+        - Management and administration of research laboratories
+  - role: Research Engineer
     time: 2011 - 2015
     company: Technical University of Madrid, Madrid (Spain)
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Conception and design of practical lab experiments, including the manufacturing of nanoparticle-doped liquid crystal devices in a clean room environment.
+        - Design and implementation of practical testbeds using LabView and RF equipment, such as signal generators, oscilloscopes, spectrum/impedance analysers, etc.
+        - Experimental measures and analysis, including the formulation of analytical models based on practical experiment results.
+        - Publication of results in top venues, such as international and national conferences (12) and journal papers (8) with an average impact factor of 2.85.
+
 projects:
-  title: Projects
+  title: Open-Source Contributions
   intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    I enjoy participating in Open Source Projects, Hackathons, and spreading the Programming Community. Until now, I participate in:
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
-
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-    - title: The Art of Computer Programming
-      link: "#"
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      link: "#"
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
+    - title: Python MicroServices (PyMS)
+      link: "#https://github.com/python-microservices"
+      tagline: "PyMS is a collection of libraries, best practices and recommended ways to build microservices with Python"
+    - title: Python Ladies Madrid (PyLadies Madrid)
+      link: "#http://madrid.pyladies.com/"
+      tagline: "International mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community"
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Django
-      level: 98%
-
-    - name: Javascript & jQuery
-      level: 98%
-
-    - name: Angular
-      level: 98%
-
-    - name: HTML5 & CSS
-      level: 95%
-
-    - name: Ruby on Rails
+    - name: Python & Flask
       level: 85%
 
-    - name: Sketch & Photoshop
+    - name: HTML5 & CSS
+      level: 60%
+
+    - name: Javascript & React (learning)
+      level: 60%
+
+    - name: Node JS (learning)
       level: 60%
 
 footer: >
