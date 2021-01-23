@@ -3,7 +3,7 @@
 #
 
 sidebar:
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -106,7 +106,16 @@ skills:
     - name: Python & Flask
       level: 85%
 
-    - name: HTML5 & CSS
+    - name: SQL & Python SQLAlchemy
+      level: 70%
+
+    - name: Python Marshmallow (Serialization)
+      level: 60%
+
+    - name: DTL - Blockchain
+      level: 70%
+
+    - name: HTML5 & CSS (learning)
       level: 60%
 
     - name: Javascript & React (learning)
