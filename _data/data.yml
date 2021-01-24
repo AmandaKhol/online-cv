@@ -53,7 +53,7 @@ sidebar:
 
 career-profile:
   title: Career Profile
-  summary: Born and raised in Madrid (Spain), I started my tech career in research following my desire to continuously broaden and deepen my knowledge. In addition, I am passionate about graphic design, illustration, and sketching. Web development allows me to combine both tech and art, getting the most out of my expertise in both areas. I am looking forward to becoming a Full Stack Developer (UX / UI, Front-End and Back-end) to put into practice this synergy.
+  summary: Born and raised in Madrid (Spain), I started my tech career in research following my desire to continuously broaden and deepen my knowledge. In addition, I am passionate about graphic design, illustration, and sketching. Web development allows me to combine both tech and art, getting the most out of my expertise in both areas. I am looking forward to becoming a Full Stack Developer (UX / UI, Front-End, and Back-end) to put into practice this synergy.
 
 education:
   - degree: Front-End Development
@@ -104,22 +104,22 @@ skills:
 
   toolset:
     - name: Python & Flask
-      level: 85%
+      level: 70%
 
     - name: SQL & Python SQLAlchemy
       level: 60%
 
     - name: Python Marshmallow (Serialization)
-      level: 60%
+      level: 50%
 
     - name: DTL - Blockchain
       level: 70%
 
     - name: HTML5 & CSS (learning)
-      level: 50%
+      level: 55%
 
     - name: Javascript & React (learning)
-      level: 50%
+      level: 55%
 
     - name: Node JS (learning)
       level: 40%
