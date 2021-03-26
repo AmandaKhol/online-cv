@@ -1,39 +1,96 @@
 @media print
-   {
-    @page {
-        size: A4;
-    }
-    body {
-       font-size: 12pt;
+{
+  @page {
+    size: A4;
+  }
+  body {
+    font-size: 12pt;
+  }
+
+  .main-wrapper {
+    .time {
+      float: right;
+      color: black !important;
+      -webkit-print-color-adjust: exact;
     }
 
-    img.avatar {
-        filter: grayscale(1);
-        -webkit-filter: greyscale(1);
-    }
-   .main-wrapper .time {
-       float: right;
-        color: black !important;
-        -webkit-print-color-adjust: exact; 
-   }
-    .sidebar-wrapper {
-        position: static;
-        float: right;
-        width: 40%;
-        -webkit-print-color-adjust: exact; 
+    .item:not(:first-child),
+    .experiences-section,
+    .projects-section,
+    .skills-section, {
+      margin-bottom: 30px;
     }
 
-    .remove-container.container-block {
-       display: none;
+    .section-title {
+      color: $theme-color !important;
     }
 
-    footer {
-       display: none;
+    .projects-section {
+      .section-title {
+        margin-bottom: 10px;
+      }
+      .intro {
+        margin-bottom: 5px;
+      }
     }
 
-    .skillset .level-bar-inner {
-       background-color: black !important;
-       -webkit-print-color-adjust: exact; 
+    .summary-section {
+      margin-bottom: 20px;
     }
 
+    .summary-section a {
+      text-decoration: none;
+    }
+
+    .fa-stack {
+      display: none;
+    }
+
+    .job-title {
+      font-style: italic;
+      font-weight: 600;
+    }
+  }
+  .sidebar-wrapper {
+    position: static;
+    float: right;
+    width: 40%;
+    -webkit-print-color-adjust: exact;
+
+    .container-block {
+      padding-bottom: 10px;
+    }
+
+    .name,
+    .container-block-title {
+      color: $theme-color !important;
+    }
+
+    .email,
+    .linkedin,
+    .github {
+      ::after {
+        display: none;
+      }
+    }
+  }
+
+  .remove-container.container-block {
+    display: none;
+  }
+
+  footer {
+    display: none;
+  }
+
+  .skillset {
+    .item {
+      margin-bottom: 10px;
+
+      .level-bar-inner {
+        background-color: $theme-color !important;
+        -webkit-print-color-adjust: exact;
+      }
+    }
+  }
 }
