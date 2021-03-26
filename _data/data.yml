@@ -53,9 +53,9 @@ sidebar:
 
 career-profile:
   title: Career Profile
-  summary: Born and raised in Madrid (Spain), I started my tech career in research following my desire to continuously broaden and deepen my knowledge. In addition, I am passionate about graphic design, illustration, and sketching. Web development allows me to combine both tech and art, getting the most out of my expertise in both areas. I am looking forward to becoming a Full Stack Developer (UX / UI, Front-End, and Back-end) to put into practice this synergy.
+  summary: Born and raised in Madrid (Spain), I started my tech career in research following my desire to continuously broaden and deepen my knowledge. In addition, I am passionate about graphic design, illustration, and sketching. Web development allows me to combine both tech and art, getting the most out of my expertise in both areas. I am looking forward to becoming a Full Stack Developer (UX / UI, Front-End, and Back-end) to put into practice this synergy. Also, I enjoy participating in Open Source Projects, Hackathons, and spreading the Programming Community.
 
-education:
+educationTech:
   - degree: Web Development
     university: Adalab, Madrid
     time: 2020 - 2021
@@ -65,6 +65,7 @@ education:
   - degree: MSc. Communication Technologies and Systems
     university: Technical University of Madrid
     time: 2004 - 2011
+educationArt:
   - degree: Illustration, Narrative and Typography
     university: Escuela Minúscula de Ilustración, Madrid
     time: 2019 - 2021
@@ -90,25 +91,28 @@ experiences:
     time: 2011 - 2015
     company: Technical University of Madrid, Madrid (Spain)
     details: |
-      Conception and design of practical lab experiments, including the manufacturing of nanoparticle-doped liquid crystal devices in a clean room environment.
-        - Design and implementation of practical testbeds using LabView and RF equipment, such as signal generators, oscilloscopes, spectrum/impedance analysers, etc.
-        - Experimental measures and analysis, including the formulation of analytical models based on practical experiment results.
+      Conception and design of practical lab experiments (clean room). Experimental measures and analysis, including the formulation of analytical models based on practical experiment results.
+        - International research stays (France and Italy)
         - Publication of results in top venues, such as international and national conferences (12) and journal papers (8) with an average impact factor of 2.85.
   - role: IT technical assistant and salesperson
     time: 2004 - 2007
     company: Morfeo Servicios Informáticos S.L
 
 projects:
-  title: Open-Source Contributions
-  intro: >
-    I enjoy participating in Open Source Projects, Hackathons, and spreading the Programming Community. Until now, I participate in:
+  title: Open-Source, Organizations and Projects
   assignments:
     - title: Python MicroServices (PyMS)
-      link: '#https://github.com/python-microservices'
-      tagline: 'PyMS is a collection of libraries, best practices and recommended ways to build microservices with Python'
+      link: 'https://github.com/python-microservices'
+      tagline: PyMS is a collection of libraries, best practices and recommended ways to build microservices with Python.
     - title: Python Ladies Madrid (PyLadies Madrid)
-      link: '#http://madrid.pyladies.com/'
-      tagline: 'International mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community'
+      link: 'http://madrid.pyladies.com/'
+      tagline: International mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
+    - title: DTL-Blockchain
+      link: 'https://github.com/AmandaKhol/DLT-Blockchain'
+      tagline: Back-End project using Python Flask, SQLAlchemy and, Marshmallow.
+    - title: Rick and Morty Characters Browser
+      link: 'https://github.com/AmandaKhol/React-RickAndMortyBrowser'
+      tagline: Front-End project using HTML, SASS and, React.
 
 skills:
   title: Skills
