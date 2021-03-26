@@ -56,7 +56,7 @@ career-profile:
   summary: Born and raised in Madrid (Spain), I started my tech career in research following my desire to continuously broaden and deepen my knowledge. In addition, I am passionate about graphic design, illustration, and sketching. Web development allows me to combine both tech and art, getting the most out of my expertise in both areas. I am looking forward to becoming a Full Stack Developer (UX / UI, Front-End, and Back-end) to put into practice this synergy.
 
 education:
-  - degree: Front-End Development
+  - degree: Web Development
     university: Adalab, Madrid
     time: 2020 - 2021
   - degree: International Ph.D. Degree in Communication Technologies and Systems
@@ -117,7 +117,7 @@ skills:
     - name: HTML5 || CSS3 || SASS || CSS Grid || Bootstrap
       level: 75%
 
-    - name: Javascript || React
+    - name: JavaScript || React
       level: 70%
 
     - name: Python || Flask || Node JS
