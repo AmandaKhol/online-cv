@@ -15,7 +15,7 @@ sidebar:
   email: amanda.camsua@gmail.com
   #phone:
   #website: blog.webjeda.com #do not add http://
-  linkedin: amanda-garcía-garcía-phd-a48b3174
+  linkedin: amanda-garcia-garcia-phd
   github: AmandaKhol
   #telegram: # add your nickname without '@' sign
   #gitlab:
@@ -58,14 +58,22 @@ career-profile:
 education:
   - degree: Front-End Development
     university: Adalab, Madrid
-    time: 2020 - Present
+    time: 2020 - 2021
   - degree: International Ph.D. Degree in Communication Technologies and Systems
     university: Technical University of Madrid
     time: 2011 - 2016
   - degree: MSc. Communication Technologies and Systems
     university: Technical University of Madrid
     time: 2004 - 2011
-    details: |
+  - degree: Illustration, Narrative and Typography
+    university: Escuela Minúscula de Ilustración, Madrid
+    time: 2019 - 2021
+  - degree: Illustration
+    university: Escuela Superior de Dibujo Profesional - ESDIP, Madrid
+    time: 2019-2019
+  - degree: Professional Make Up
+    university: Stick Art Studio, Barcelona
+    time: 2015-2016
 
 experiences:
   - role: Research Engineer
@@ -86,6 +94,9 @@ experiences:
         - Design and implementation of practical testbeds using LabView and RF equipment, such as signal generators, oscilloscopes, spectrum/impedance analysers, etc.
         - Experimental measures and analysis, including the formulation of analytical models based on practical experiment results.
         - Publication of results in top venues, such as international and national conferences (12) and journal papers (8) with an average impact factor of 2.85.
+  - role: IT technical assistant and salesperson
+    time: 2004 - 2007
+    company: Morfeo Servicios Informáticos S.L
 
 projects:
   title: Open-Source Contributions
@@ -93,36 +104,35 @@ projects:
     I enjoy participating in Open Source Projects, Hackathons, and spreading the Programming Community. Until now, I participate in:
   assignments:
     - title: Python MicroServices (PyMS)
-      link: "#https://github.com/python-microservices"
-      tagline: "PyMS is a collection of libraries, best practices and recommended ways to build microservices with Python"
+      link: '#https://github.com/python-microservices'
+      tagline: 'PyMS is a collection of libraries, best practices and recommended ways to build microservices with Python'
     - title: Python Ladies Madrid (PyLadies Madrid)
-      link: "#http://madrid.pyladies.com/"
-      tagline: "International mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community"
+      link: '#http://madrid.pyladies.com/'
+      tagline: 'International mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community'
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Skills
 
   toolset:
-    - name: Python & Flask
+    - name: HTML5 || CSS3 || SASS || CSS Grid || Bootstrap
+      level: 75%
+
+    - name: Javascript || React
       level: 70%
 
-    - name: SQL & Python SQLAlchemy
+    - name: Python || Flask || Node JS
+      level: 70%
+
+    - name: SQL || Python SQLAlchemy || Python Marshmallow
       level: 60%
 
-    - name: Python Marshmallow (Serialization)
-      level: 50%
+    - name: VSCode || PyCharm || Gulp
+      level: 70%
 
     - name: DTL - Blockchain
       level: 70%
 
-    - name: HTML5 & CSS (learning)
-      level: 55%
+    - name: Agile (Scrum)
+      level: 70%
 
-    - name: Javascript & React (learning)
-      level: 55%
-
-    - name: Node JS (learning)
-      level: 40%
-
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
