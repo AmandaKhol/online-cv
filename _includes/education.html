@@ -1,5 +1,5 @@
 {% assign education = site.data.data.educationTech %} {% assign educationArt =
-site.data.data.educationArt %} {% if education %} {% if
+site.data.data.educationArt %} {% if education || educationArt %} {% if
 site.data.data.sidebar.education %}
 <div class="education-container container-block">
   <h2 class="container-block-title">Education</h2>
@@ -15,7 +15,7 @@ site.data.data.sidebar.education %}
     <!--//item-->
     {% endfor %}
   </div>
-
+  {% if site.data.data.sidebar.educationArt %}
   <div class="education-container education__art">
     <h3 class="container-block-subtitle">Arts</h3>
     {% for graduation in educationArt %}
@@ -27,6 +27,7 @@ site.data.data.sidebar.education %}
     <!--//item-->
     {% endfor %}
   </div>
+  {% endif %}
 </div>
 <!--//education-container-->
 {% else %}
