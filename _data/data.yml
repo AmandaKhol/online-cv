@@ -53,7 +53,7 @@ sidebar:
 
 career-profile:
   title: Career Profile
-  summary: Born and raised in Madrid (Spain), I started my tech career in research following my desire to continuously broaden and deepen my knowledge. In addition, I am passionate about graphic design, illustration, and sketching. Web development allows me to combine both tech and art, getting the most out of my expertise in both areas. I am looking forward to becoming a Full Stack Developer (UX / UI, Front-End, and Back-end) to put into practice this synergy. Also, I enjoy participating in Open Source Projects, Hackathons, and spreading the Programming Community. You can <a href="assets/docs/CV-AmandaGarcia-FullStackDev.pdf" onclick="document.title='CV-AmandaGarcia-FullStackDev.pdf' download">download my CV in PDF here</a>.
+  summary: Born and raised in Madrid (Spain), I started my tech career following my desire to continuously broaden and deepen my knowledge in research. In addition, I am passionate about graphic design, illustration, and sketching. Web development allows me to combine both tech and art, getting the most out of my expertise in both areas. I am looking forward to becoming a Full Stack Developer (UX / UI, Front-End, and Back-end) to put into practice this synergy. Also, I enjoy participating in Open Source Projects, Hackathons, and contributing to Programming Community. You can <a href="assets/docs/CV-AmandaGarcia-FullStackDev.pdf" onclick="document.title='CV-AmandaGarcia-FullStackDev.pdf' download">download my CV in PDF here</a>.
 
 educationTech:
   - degree: Web Development
