@@ -32,6 +32,10 @@ a {
 p {
   line-height: 1.5;
 }
+.summary a {
+  color: $theme-color;
+  font-weight: bold;
+}
 
 .wrapper {
   background: $theme-color;

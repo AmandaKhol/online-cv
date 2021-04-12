@@ -1,5 +1,4 @@
-@media print
-{
+@media print {
   @page {
     size: A4;
   }
@@ -17,7 +16,7 @@
     .item:not(:first-child),
     .experiences-section,
     .projects-section,
-    .skills-section, {
+    .skills-section {
       margin-bottom: 30px;
     }
 
